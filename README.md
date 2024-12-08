@@ -1,4 +1,4 @@
-# Generalization Bounds #
+# Covered Forests #
 
 This repository contains the official code base of the paper "Covered Forests: Fine-grained generalization analysis of graph neural networks".
 

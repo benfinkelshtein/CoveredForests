@@ -1,8 +1,6 @@
 """
 Tree Mover's Distance solver
 """
-# Author: Ching-Yao Chuang <cychuang@mit.edu>
-# License: MIT License
 
 import numpy as np
 import torch
